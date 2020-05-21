@@ -1,0 +1,170 @@
+
+html{
+    margin-left: 20%;
+  width:  1000px;
+}
+h1 {
+    font-size: 35px ;
+    font-family: 'Yellowtail', cursive;
+    color: black;   
+}
+#lanshoof{
+    float: left;
+    margin-top: 5px;
+    padding: 5px;
+}
+#delecious p{
+    color: grey;
+}
+#deleciuos p {
+    margin-left: 45px;
+}
+#socials img{
+    /* display: inline-block; */
+    float: right;
+    margin-right: 2px;
+}
+#mails img{
+    /* display: inline-block; */
+    float: right;
+    margin-left: 10px;
+}
+.borda {
+    padding: 20px;
+}
+#startBody{
+    display: inline-block;
+}
+#startBody h2
+{
+    font-family: 'Pathway Gothic One', sans-serif;
+    font-size: 3.5em;
+    margin-bottom: -0.7em;
+    font-weight: bold;
+    letter-spacing: 0.02em;
+}
+#startBody p
+{
+    margin-top: 2.5em;
+    display: inline-block;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.8em;
+    opacity: 0.4;
+}
+#print{
+    margin-top: 8em;
+    /* display: inline-block; */
+    margin-left: 39em;
+    float: right;
+    margin-right: 1em;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.8em;
+}
+#print img{
+display: inline-block;
+}
+#print p{
+    opacity: 0.4;
+    }
+    #bigImg{
+        display: inline-block;
+        margin-top: 20px;
+    }
+    #top {
+        display: inline-block;
+    }
+  #longParagraphs
+{
+    font-family: 'Crimson Text', serif;
+    font-size: 1.2em;
+    opacity: 0.7;
+}
+#longParagraphs p {
+    padding: 20px;
+}
+#list1{
+float: left;
+margin-right: 70px;
+}
+#list1 input{
+display: block;
+}
+#list2{
+    float: left;
+    }
+    #list2 input{
+    display: block;
+    }
+#lists{
+    margin-left: 25%;
+    padding: 20px;
+    background-image: url(/images/list-bg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+
+
+
+#van h3{
+    margin-left: 10px;
+    margin-top: 30px;
+    padding-left: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 400;
+    font-size: larger;
+    color: rgb(85, 85, 85);
+}
+#van img {
+    display: block;
+    float: left;
+    margin-right: 20px;
+}
+#van p{
+    margin-left: 30px;
+    margin-top: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(85, 85, 85);
+    opacity: 0.5;
+
+
+}
+
+#button {
+    border: 0;
+    background: none;
+    box-shadow: none;
+    border-radius: 0px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    block-size: 100%;
+    letter-spacing: -0.1em;
+    width: 11em;
+    height: 3em;
+    color: white;
+    display: block;
+    opacity: 1;
+    background: #CF5E5E;
+    margin-left: 43em;
+    margin-top: -5em;
+    float: right;
+    padding-bottom: 50px;
+    font-size: larger;
+}
+footer {
+    margin: 100px;
+    height: 100px;
+}
+footer img{
+    margin: 25px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+footer p{
+   text-align: center;
+   color: rgb(85, 85, 85);
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   opacity: 0.5;
+
+}
